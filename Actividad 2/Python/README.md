@@ -6,7 +6,7 @@ Este es un programa en Python que convierte grados Celsius a Fahrenheit y viceve
 
 1. Asegúrate de tener python instalado en tu máquina. Puedes descargarlo desde la página oficial de python (https://www.python.org).
 
-##Instalación
+## Instalación
 
 1. Descarga este repositorio o copia el código en un archivo llamado [nombre].py.
 
