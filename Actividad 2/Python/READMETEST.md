@@ -19,4 +19,4 @@ Las pruebas están organizadas en un archivo llamado `conversor_test.py`. A cont
 1. Abre la terminal y navega hasta el directorio donde se encuentran los archivos conversor.py y test_conversor.py.
 2. Ejecuta el siguiente comando:
 ```bash
-python test_conversor.py
+python conversor_test.py
