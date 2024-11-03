@@ -6,9 +6,9 @@ Este es un script sencillo en Bash que permite calcular el área de un círculo 
 
 El script solicita al usuario que ingrese el radio del círculo y calcula el área utilizando la fórmula:
 
-\[ A = \pi \times r^2 \]
+A = π * r^2
 
-donde \( \pi \) se aproxima a 3.1416.
+donde π se aproxima a 3.1416.
 
 ## Requisitos
 
