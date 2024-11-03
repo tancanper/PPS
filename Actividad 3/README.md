@@ -22,8 +22,8 @@ donde π se aproxima a 3.1416.
 3. Asegúrate de que el script tenga permisos de ejecución. Puedes hacer esto con el siguiente comando:
 
    ```bash
-   chmod +x calcular_area_circulo.sh
+   chmod +x area_circulo.sh
 4. Ejecuta el script con el siguiente comando:
    ```bash
-   ./calcular_area_circulo.sh
+   ./area_circulo.sh
 
