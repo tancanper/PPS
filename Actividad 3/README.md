@@ -1,0 +1,29 @@
+# Cálculo del Área de un Círculo
+
+Este es un script sencillo en Bash que permite calcular el área de un círculo dado su radio. 
+
+## Descripción
+
+El script solicita al usuario que ingrese el radio del círculo y calcula el área utilizando la fórmula:
+
+\[ A = \pi \times r^2 \]
+
+donde \( \pi \) se aproxima a 3.1416.
+
+## Requisitos
+
+- Un sistema operativo con Bash instalado.
+- La herramienta `bc` debe estar instalada para realizar cálculos de precisión.
+
+## Cómo usar
+
+1. Clona o descarga el archivo del script en tu máquina.
+2. Abre una terminal y navega hasta el directorio donde se encuentra el script.
+3. Asegúrate de que el script tenga permisos de ejecución. Puedes hacer esto con el siguiente comando:
+
+   ```bash
+   chmod +x calcular_area_circulo.sh
+4. Ejecuta el script con el siguiente comando:
+   ```bash
+   ./calcular_area_circulo.sh
+
