@@ -34,3 +34,6 @@ Para la depuración del código puedes optar por las siguientes opciones:
    2. Introducir al inicio del script las siguiente línea:
       ```bash
       set -x
+   3. Añadir al inicio del script:
+      ```bash
+      #!/bin/bash -x
