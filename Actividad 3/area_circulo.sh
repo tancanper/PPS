@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 #Calculo del área de un círculo
 
