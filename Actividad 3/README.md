@@ -26,4 +26,11 @@ donde π se aproxima a 3.1416.
 4. Ejecuta el script con el siguiente comando:
    ```bash
    ./area_circulo.sh
-
+# Depuración
+Para la depuración del código puedes optar por las siguientes opciones:
+   1. Ejecutar el código con el comando:
+      ```bash
+      bash -x area_circulo.sh
+   2. Introducir al inicio del script las siguiente línea:
+      ```bash
+      set -x
